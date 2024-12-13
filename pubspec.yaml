@@ -16,6 +16,8 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^4.0.0
 
+example:
+  path: example
 
 # The following section is specific to Flutter packages.
 flutter:
