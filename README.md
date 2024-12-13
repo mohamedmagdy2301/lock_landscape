@@ -18,7 +18,7 @@ Add the following line to your project's `pubspec.yaml` under `dependencies`:
 
 ```yaml
 dependencies:
-  lock_orientation_screen: ^0.0.3
+  lock_orientation_screen: ^0.0.4
 ```
 
 Then, run:
