@@ -1,6 +1,6 @@
 name: lock_orientation_screen
 description: "A Flutter package to lock the screen orientation to portrait mode and restore default orientations when disposed."
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/mohamedmagdy2301/lock_orientation_screen
 
 environment:
