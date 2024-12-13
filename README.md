@@ -1,4 +1,4 @@
-# Lock Orientation Screen
+# Lock Orientation
 
 **Lock Orientation Screen** is a Flutter package designed to help developers easily lock the screen orientation to portrait mode within their applications. This package simplifies the process by managing the system's orientation settings seamlessly.
 
@@ -18,7 +18,7 @@ Add the following line to your project's `pubspec.yaml` under `dependencies`:
 
 ```yaml
 dependencies:
-  lock_orientation_screen: ^0.0.1
+  lock_orientation_screen: ^0.0.3
 ```
 
 Then, run:
@@ -110,15 +110,11 @@ Contributions are highly encouraged! If you would like to contribute to `LockOri
 ## Congratulations
 
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request in the [LockOrientation GitHub repository](#)
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request in the [GitHub repository](https://github.com/mohamedmagdy2301/lock_orientation_screen)
 
 If you found this guide helpful, don’t forget to ⭐ star this repository on GitHub to show your support!
 
 Thank you for reading!
-
-## Contributions
-
-.
 
 
 ## License
